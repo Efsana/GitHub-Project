@@ -9,7 +9,7 @@ public class FirstJavaProgram {
 	int text=100;
 	System.out.println(text);
 	
-	String name="Efsana";
+	String name="Efsana-hedayet-arafat";
 	System.out.println(name);
 	System.out.println("Name: "+name);
 	
